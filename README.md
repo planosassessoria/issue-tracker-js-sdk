@@ -1,4 +1,4 @@
-# Issue Tracker Node SDK
+# Issue Tracker JS SDK
 
 A simple SDK to track error in JS projects. Both Backend and Frontend.
 
